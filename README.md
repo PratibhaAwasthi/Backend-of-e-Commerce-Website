@@ -81,9 +81,9 @@ yarn test
 
 ## Built With
 
-* [NodeJS]
-* [Yarn]
-* [db-migrate]
-* [Express]
-* [TypeScript]
-* [Jasmine]
+* NodeJS
+* Yarn
+* db-migrate
+* Express
+* TypeScript
+* Jasmine
