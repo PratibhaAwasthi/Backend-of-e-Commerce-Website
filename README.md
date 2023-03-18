@@ -52,11 +52,11 @@ Overall, this project aims to build a reliable, scalable, and secure RESTful API
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+The following guidelines will assist you in obtaining a copy of the project and running it on your personal computer.
 
 ### Prerequisites
 
-To execute this project, you'll need to install the following modules and dependencies:
+In order to run this project, it is necessary to install following modules and dependencies:
 
 ```
 docker-compose   # To run the Postgres database on Docker
@@ -66,7 +66,7 @@ yarn             # For dependency management
 
 ### Installation Instruction
 
-To install the project dependencies, just execute the following command:
+To install the project dependencies,  execute the following command:
 
 ```bash
 yarn
